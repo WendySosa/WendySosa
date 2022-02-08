@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WendySosa
+- 👋 Hi, I’m @WendySosa 
 - 👀 I’m interested in programming, photography and music. 
 - 🌱 I’m currently learning Python, Angular & React.
 - 📫 How to reach me: www.linkedin.com/in/wendy-sosa-2666b91aa
